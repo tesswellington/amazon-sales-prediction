@@ -15,5 +15,4 @@ Predicting Amazon customer order totals based on state and date using machine le
 
 ## Connect with Me Here!
 - **LinkedIn:** [linkedin.com/in/theresalwellington](https://www.linkedin.com/in/theresalwellington)
-- **Primary Email:** tess.wellington@gmail.com
-- **UCLA Email:** tesswellington@g.ucla.edu
+- *Email:** tess.wellington@gmail.com
