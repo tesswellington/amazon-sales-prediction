@@ -15,4 +15,4 @@ Predicting Amazon customer order totals based on state and date using machine le
 
 ## Connect with Me Here!
 - **LinkedIn:** [linkedin.com/in/theresalwellington](https://www.linkedin.com/in/theresalwellington)
-- *Email:** tess.wellington@gmail.com
+- **Email:** tess.wellington@gmail.com
