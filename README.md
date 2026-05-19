@@ -9,7 +9,8 @@ Predicting Amazon customer order totals based on state and date using machine le
 ## Machine Learning Models
 - **Baseline:**  Linear Regression
 - **ML Models Tested:** Random Forest, Decision Tree, Boosted Tree, KNN, GLM
-- **Final Model:** Stacked Ensemble Model (lowest RMSE)
+- **Final Model:** Stacked Ensemble Model of Decision Tree, Random Forest, and KNN models
+  - **Evaluation:** Achieved an MSE of 0.01635
 
 ---
 
